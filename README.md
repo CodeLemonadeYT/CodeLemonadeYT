@@ -1,5 +1,6 @@
 
-![banner](https://github.com/CodeLemonadeYT/CodeLemonadeYT/assets/136920805/e0937607-a643-4da7-8f79-ee85c40e70a0)
+![banner (2)](https://github.com/CodeLemonadeYT/CodeLemonadeYT/assets/136920805/7d852a96-ef63-42d9-b9b1-fb808c477e18)
+
 
 ### Hi there 👋
 

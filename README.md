@@ -9,5 +9,9 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on anything relted to Big Data.
 - 💬 Ask me about Databases
 - 📫 How to reach me: codelemonade2@gmail.com
-  
+
+  <img align="right" alt="Coding" width="400" src="add your link 
+  here">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeLemonadeYT)](https://git.io/streak-stats)
 

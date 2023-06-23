@@ -11,5 +11,5 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: codelemonade2@gmail.com
 
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeLemonadeYT)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=CodelemonadeYT&theme=react&hide_border=true)](https://git.io/streak-stats)
 

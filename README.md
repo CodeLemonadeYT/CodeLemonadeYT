@@ -10,8 +10,6 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about Databases
 - 📫 How to reach me: codelemonade2@gmail.com
 
-  <img align="right" alt="Coding" width="400" src="add your link 
-  here">
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeLemonadeYT)](https://git.io/streak-stats)
 

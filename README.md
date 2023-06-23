@@ -11,5 +11,8 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: codelemonade2@gmail.com
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeLemonadeYT)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=CodelemonadeYT&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
 

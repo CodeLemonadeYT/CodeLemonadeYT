@@ -14,8 +14,19 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about Databases
 - 📫 How to reach me: codelemonade2@gmail.com
 
-
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=CodelemonadeYT&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
 
+
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+
+<!-----metrics------->
+<div id="header" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeLemonadeYT&theme=github_dark"/>
+</div>
+
+<!----time spent------>
